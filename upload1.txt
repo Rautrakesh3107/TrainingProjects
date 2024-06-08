@@ -1,3 +1,0 @@
-git add upload1.txt
-git commit -m "file updated by rakesh2"
-git push -u origin master
